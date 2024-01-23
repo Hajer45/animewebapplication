@@ -1,12 +1,12 @@
-import { useMyContext } from './Context/context';
 import Navbar from './Components/Navbar'
+import { BrowserRouter } from 'react-router-dom';
+import { PopularAnimes } from './Components/PopularAnimes';
 function App() {
-  const context = useMyContext()
-  console.log(context)
   return (
-    <>
+    <BrowserRouter>
     <Navbar/>
-    </>
+    <PopularAnimes/>
+    </BrowserRouter>
   );
 }
 
