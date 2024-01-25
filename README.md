@@ -87,7 +87,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ├── node_modules
 └── package.json
 # DEMO :
-# Try here my app :
-
+Try here my app :
 https://animewebapplication.vercel.app/
 

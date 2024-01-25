@@ -1,7 +1,7 @@
 version: "3.8"
 services:
   animewebapplication:
-    build: ./animewebapplication
+    build: ./
     container_name: animewebapplication_c
     ports:
       - '3000:3000'
