@@ -80,13 +80,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Project Structure :
 ├── src/ Contains all the source code for the project.
+
 │   ├── components/ Reusable React components
+
 │   ├── context/ 
+
 │   ├── Globalstyle Global styles and styling utilities.
+
 ├── public/
+
 ├── node_modules
+
 └── package.json
 # DEMO :
-Try here my app :
+# Try here my app :
+
 https://animewebapplication.vercel.app/
 
