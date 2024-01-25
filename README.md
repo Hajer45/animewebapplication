@@ -1,3 +1,4 @@
+This application provide info about Anime using the Jikan API and Material UI .
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# SETUP INSTRUCTIONS :
+# How to Run
+1. Clone the repository: `git clone https://github.com/Hajer45/animewebapplication`
+2. Navigate to the project directory: `cd animewebapplication`
+3. Install dependencies: `npm install`
+4. Run the application: `npm start`
+
+
+# Project Structure :
+
