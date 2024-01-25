@@ -55,7 +55,7 @@ function Gallery() {
 
 const GalleryStyled = styled.div`
     background-color: #EDEDED;
-    max-height: 100vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
